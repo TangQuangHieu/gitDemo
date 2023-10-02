@@ -1,2 +1,2 @@
 # gitDemo
-<h1> Hello World demo</h1>
+<h2> Hello World demo</h2>
